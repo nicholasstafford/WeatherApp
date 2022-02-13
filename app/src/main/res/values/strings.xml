@@ -7,4 +7,14 @@
     <string name="Date">Date</string>
     <string name="desc">Picture</string>
     <string name="Temperature">20</string>
+    <string name="search">Search</string>
+    <string name="mWind">Wind:</string>
+    <string name="windvalue">windvalue</string>
+    <string name="feels_like">Feels Like:</string>
+    <string name="temp">18</string>
+    <string name="High">22</string>
+    <string name="high_of">High of</string>
+    <string name="low_of">Low of</string>
+    <string name="km_h">km/h</string>
+    <string name="_10">10</string>
 </resources>
